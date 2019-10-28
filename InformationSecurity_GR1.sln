@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformationSecurity_GR1", "InformationSecurity_GR1\InformationSecurity_GR1.csproj", "{DBF566A8-B0AD-4269-853B-1A6F6ECDFF9D}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Information_Security_GR1", "Information_Security_GR1\Information_Security_GR1.vdproj", "{598521F6-B8B2-4EC0-A811-57E1B6932608}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Information Security Setup", "Information Security Setup\Information Security Setup.vdproj", "{173D40A1-E791-413F-BE1C-E4BFE8AF1274}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{DBF566A8-B0AD-4269-853B-1A6F6ECDFF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBF566A8-B0AD-4269-853B-1A6F6ECDFF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBF566A8-B0AD-4269-853B-1A6F6ECDFF9D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{598521F6-B8B2-4EC0-A811-57E1B6932608}.Debug|Any CPU.ActiveCfg = Debug
-		{598521F6-B8B2-4EC0-A811-57E1B6932608}.Release|Any CPU.ActiveCfg = Release
+		{173D40A1-E791-413F-BE1C-E4BFE8AF1274}.Debug|Any CPU.ActiveCfg = Debug
+		{173D40A1-E791-413F-BE1C-E4BFE8AF1274}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
