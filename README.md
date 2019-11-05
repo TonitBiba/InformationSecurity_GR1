@@ -31,5 +31,7 @@ Aplikacioni i zhvilluar ne kuader të detyres se pare në lëndën "Siguria e In
   e for që iteron nga 0 deri në 65535, përdoret për të gjeneruar 2 byte-at e përmendur në pikën 2.
 <hr/>
 Nese ekzekutohet aplikacionit per detyren e pare, rezultati do te jete:
-  Celësi: 5E15F4E6314191DCF6401A6AFBF6BA08;
-  Teksti i dekriptuar: GR 01 KODI 94945.
+<ul>
+  <li><b>Celësi: 5E15F4E6314191DCF6401A6AFBF6BA08</b>;</li>
+  <li><b>Teksti i dekriptuar: GR 01 KODI 94945</b>.</li>
+ </ul>
