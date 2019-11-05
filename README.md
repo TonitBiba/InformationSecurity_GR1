@@ -29,4 +29,7 @@ Aplikacioni i zhvilluar ne kuader të detyres se pare në lëndën "Siguria e In
   Në rastin më të keq të mundshëm duhet të përdoren gjitsejt 196,608 çelësat e mundshëm për të arritur në rezultatin e kërkuar. 
   çelësat gjenerohen nga programi i krijuar, duke u hyrë fillimisht në një unazë foreach të 3 çelësave të gjeneruar, pastaj një unazë tjetër
   e for që iteron nga 0 deri në 65535, përdoret për të gjeneruar 2 byte-at e përmendur në pikën 2.
-  
+
+Nese ekzekutohet aplikacionit per detyren e pare, rezultati do te jete:
+  Celësi: 5E15F4E6314191DCF6401A6AFBF6BA08;
+  Teksti i dekriptuar: GR 01 KODI 94945.
