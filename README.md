@@ -2,7 +2,7 @@
 https://github.com/TonitBiba/Information_Security_UP <br>
 Aplikacioni i zhvilluar ne kuader të detyres se pare në lëndën "Siguria e Informacionit". Ky aplikacion është zhvilluar për të dekriptuar dhe nxjerrë çelësin që është përdorur për enkriptim në kuadër të detyrë së parë në lëndën "Siguria e Informacionit". Aplikacioni është zhvilluar në platëformën desktop WPF, në gjuhën programueses C#, duke përdorur editorin Visual Studio 2019. Fillimisht është zhvilluar për detyrën e grupit 1, pastaj është gjeneralizuar edhe për detyrat e grupeve të tjera, që do të thotë se ky aplikacion mund të përdoret edhe për dekriptimin e detyrave tjera.
 1. Udhëzimet për egzekutimin e programit:<br>
-  Preferohet që programi të egzekutohet duke instaluar aplikacionin që ndodhet në kuadër të folder-it <b>Information Security Setup</b>
+  Preferohet që programi të egzekutohet duke instaluar aplikacionin që ndodhet në kuadër të folder-it <b>Setup</b>
   Instalimi dhe ekzekutimi i këtij programi është pothuasje i njejtë me programet e zakonshme që instalohen në kompjuter 
 <hr>
 2. Mënyra e gjetjes së çelësit dhe dekriptimit të mesazhit <br>
